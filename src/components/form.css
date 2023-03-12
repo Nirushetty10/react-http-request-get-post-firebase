@@ -1,0 +1,28 @@
+form {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+}
+.form {
+    width: 100%;
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form input,label {
+    top: 0;
+    width: 60%;
+    height: 2rem;
+    background-color: #fff;
+}
+button {
+    margin-top: 1.5rem;
+    width: 12rem;
+    height: 3rem;
+    background-color: coral;
+}
